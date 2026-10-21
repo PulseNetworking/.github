@@ -12,7 +12,7 @@
 </p>
 
 **Pulse** is open source netcode for Unity 6, for hosted or dedicated server games, with the networking boilerplate generated for you.
-- **Write gameplay, not plumbing.** Synced fields and network calls are attributes; a source generator writes the rest.
+- **Write gameplay, not plumbing.** The underlying logic for synced communication is done for you. **Synced Variable**s are filled out via a source generator.
 - **Feels right at any ping.** Client prediction, lag compensation and interest management are built in.
 - **Reaches every player.** UDP, TCP or WebSockets, and a relay or TURN server for hosts behind NAT.
 
