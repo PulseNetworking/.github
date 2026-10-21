@@ -33,8 +33,7 @@ Pulse needs **Unity 6000.0 or newer** and **[UniTask](https://github.com/Cysharp
    ```json
    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
    ```
-   **OR*
-   In Package Manager, choose **+ › Add package from git URL** and enter:
+   **Or** in Package Manager, choose **+ › Add package from git URL** and enter:
    ```
    https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask
    ```
