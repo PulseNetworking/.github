@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pulse-banner-2560x640.png" alt="Pulse Networking, netcode for Unity" width="100%">
+  <img src="https://raw.githubusercontent.com/PulseNetworking/branding/refs/heads/main/dest/pulse-banner-2560x640.png" width="100%">
 </p>
 
 <p align="center">
