@@ -20,11 +20,11 @@
 | Package | Adds |
 |---|---|
 | [`com.pulsenetworking.pulse`](https://github.com/pulsenetworking/pulse/tree/master/Packages/com.pulsenetworking.pulse) | Transports, serialization, netcode. Everything else builds on it. |
-| [`.relay`](https://github.com/pulsenetworking/pulse/tree/master/Packages/com.pulsenetworking.pulse.relay) | Relay and TURN, for hosts behind NAT |
-| [`.lagcompensation`](https://github.com/pulsenetworking/pulse/tree/master/Packages/com.pulsenetworking.pulse.lagcompensation) | Hit checks against where targets were on the shooter's screen |
-| [`.xr`](https://github.com/pulsenetworking/pulse/tree/master/Packages/com.pulsenetworking.pulse.xr) | Networked XR rigs and grabbables |
-| [`.diagnostics`](https://github.com/pulsenetworking/pulse/tree/master/Packages/com.pulsenetworking.pulse.diagnostics) | An in-game overlay with traffic, ping and state sizes |
-| [`.examples`](https://github.com/pulsenetworking/pulse/tree/master/Packages/com.pulsenetworking.pulse.examples) | Example scenes to start from |
+| [`com.pulsenetworking.pulse.relay`](https://github.com/pulsenetworking/pulse/tree/master/Packages/com.pulsenetworking.pulse.relay) | Relay and TURN, for hosts behind NAT |
+| [`com.pulsenetworking.pulse.lagcompensation`](https://github.com/pulsenetworking/pulse/tree/master/Packages/com.pulsenetworking.pulse.lagcompensation) | Hit checks against where targets were on the shooter's screen |
+| [`com.pulsenetworking.pulse.xr`](https://github.com/pulsenetworking/pulse/tree/master/Packages/com.pulsenetworking.pulse.xr) | Networked XR rigs and grabbables |
+| [`com.pulsenetworking.pulse.diagnostics`](https://github.com/pulsenetworking/pulse/tree/master/Packages/com.pulsenetworking.pulse.diagnostics) | An in-game overlay with traffic, ping and state sizes |
+| [`com.pulsenetworking.pulse.examples`](https://github.com/pulsenetworking/pulse/tree/master/Packages/com.pulsenetworking.pulse.examples) | Example scenes to start from |
 
 ## Get started
 Pulse needs **Unity 6000.0 or newer** and **[UniTask](https://github.com/Cysharp/UniTask)**.
