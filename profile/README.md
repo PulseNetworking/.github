@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Pulse Networking, netcode for Unity" width="100%">
+  <img src="./pulse-banner-2560x640.png" alt="Pulse Networking, netcode for Unity" width="100%">
 </p>
 
 **Pulse** is open source netcode for Unity 6, for hosted or dedicated server games, with the networking boilerplate already made for you.
